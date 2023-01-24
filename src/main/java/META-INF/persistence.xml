@@ -11,6 +11,11 @@
 	<class>modelo.umpraum.Cliente</class>
 	<class>modelo.umpramuitos.Pedido</class>
 	<class>modelo.umpramuitos.ItemPedido</class>
+	<class>modelo.muitospramuitos.Tio</class>
+	<class>modelo.muitospramuitos.Sobrinho</class>
+	<class>modelo.muitospramuitos.Ator</class>
+	<class>modelo.muitospramuitos.Filme</class>
+	
 	
 	 <properties>
             <property name="javax.persistence.jdbc.driver"
@@ -20,7 +25,7 @@
             <property name="javax.persistence.jdbc.user"
                 value="root"/>
             <property name="javax.persistence.jdbc.password"
-                value="Est61nnor"/>
+                value="1Cr91toi"/>
             
             <property name="hibernate.dialect"
                 value="org.hibernate.dialect.MySQL57Dialect"/>
